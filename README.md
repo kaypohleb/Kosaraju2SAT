@@ -1,5 +1,5 @@
 # Kosaraju2SAT
-Using Kosaraju2SAT and RandomWalk Method to solve 2SAT cnf files
+Using Kosaraju2SAT and Similar to RandomWalk Method to solve 2SAT cnf files
 
 
 ## How to setup:
