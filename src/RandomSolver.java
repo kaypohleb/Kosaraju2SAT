@@ -88,7 +88,7 @@ public class RandomSolver {
                 System.out.println("FORMULA SATISFIABLE");
                 System.out.println(assignment.toString());
             }
-            else if(this.runCount>=100*this.numVar*this.numVar){
+            else if(Math.pow(this.runCount,0.5)>=10*this.numVar){
                 done = true;
                 System.out.println("FORMULA UNSATISFIABLE");
             }
