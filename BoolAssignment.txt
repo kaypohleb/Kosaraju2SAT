@@ -1,0 +1,5 @@
+Filename: ex5.cnf
+
+1:true
+2:false
+3:true
